@@ -95,6 +95,12 @@
             "value" : "Credenciais"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Credentials"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -233,6 +239,12 @@
             "value" : "Configuração do Transmissor"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Transmitter Setup"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -366,6 +378,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Detail"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Detail"
@@ -509,6 +527,12 @@
             "value" : "Os dados podem ser baixados pela Internet a partir do compartilhamento quando a conexão do transmissor falhar."
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Data can be downloaded over the Internet from Share when the transmitter connection fails."
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -642,6 +666,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Dexcom Share"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Dexcom Share"
@@ -785,6 +815,12 @@
             "value" : "Digite o ID do transmissor de 6 dígitos"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Enter the 6-digit transmitter ID"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -923,6 +959,12 @@
             "value" : "O ID do transmissor pode ser encontrado impresso na parte traseira do dispositivo, na parte lateral da caixa em que ele veio e nos menus de configurações do receptor e do aplicativo móvel."
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "The transmitter ID can be found printed on the back of the device, on the side of the box it came in, and from within the settings menus of the receiver and mobile app."
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1059,6 +1101,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ID do transmissor"
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Transmitter ID"
           }
         },
         "ru" : {
