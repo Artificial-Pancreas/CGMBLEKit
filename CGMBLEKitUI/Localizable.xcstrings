@@ -97,7 +97,7 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "%@/min"
           }
         },
@@ -825,7 +825,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "葡萄糖"
+            "value" : "血糖"
           }
         }
       }
