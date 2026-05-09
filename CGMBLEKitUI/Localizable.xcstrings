@@ -2563,8 +2563,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Trend"
+            "state" : "translated",
+            "value" : "Tendință"
           }
         },
         "ru" : {
